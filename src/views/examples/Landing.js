@@ -81,15 +81,15 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                        professional developer{" "}
+                        <span>design web App</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
+                        {/* The design system comes with four pre-built pages to
                         help you get started faster. You can change the text and
-                        images and you're good to go.
+                        images and you're good to go. */}
                       </p>
-                      <div className="btn-wrapper">
+                      {/* <div className="btn-wrapper">
                         <Button
                           className="btn-icon mb-3 mb-sm-0"
                           color="info"
@@ -112,7 +112,7 @@ class Landing extends React.Component {
                             Download React
                           </span>
                         </Button>
-                      </div>
+                      </div> */}
                     </Col>
                   </Row>
                 </div>
@@ -488,8 +488,8 @@ class Landing extends React.Component {
                   </Card>
                 </Col>
               </Row>
-            </Container>
-            {/* SVG separator */}
+            </Container> 
+            {/* SVG separator
             <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -652,12 +652,12 @@ class Landing extends React.Component {
                     <img
                       alt="..."
                       className="rounded-circle img-center img-fluid shadow shadow-lg--hover"
-                      src={team4}
+                      src={profile}
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">John Doe</span>
+                        <span className="d-block mb-1">Mohammad Hayajneh</span>
                         <small className="h6 text-muted">Founder and CEO</small>
                       </h5>
                       <div className="mt-3">
@@ -721,18 +721,18 @@ class Landing extends React.Component {
                   </Row>
                 </div>
               </Card>
-            </Container>
+            </Container>*/}
           </section>
-          <section className="section section-lg bg-gradient-default">
+            <section className="section section-lg bg-gradient-default">
             <Container className="pt-lg pb-300">
               <Row className="text-center justify-content-center">
                 <Col lg="10">
-                  <h2 className="display-3 text-white">Build something</h2>
+                  <h2 className="display-3 text-white">Buss Mall </h2>
                   <p className="lead text-white">
-                    According to the National Oceanic and Atmospheric
-                    Administration, Ted, Scambos, NSIDClead scentist, puts the
-                    potentially record low maximum sea ice extent tihs year down
-                    to low ice.
+                  web App that displays potential products to individuals in focus groups (three
+                  products at a time, side-by-side-by-side).and make the user choose by clicking
+                  on any image displayed to be saved ,calculate, and visually display the resulting
+                  data as a list and also showing the result as a chart
                   </p>
                 </Col>
               </Row>
@@ -741,27 +741,31 @@ class Landing extends React.Component {
                   <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
                     <i className="ni ni-settings text-primary" />
                   </div>
-                  <h5 className="text-white mt-3">Building tools</h5>
+                  <h5 className="text-white mt-3">Ethar </h5>
                   <p className="text-white mt-3">
-                    Some quick example text to build on the card title and make
-                    up the bulk of the card's content.
+                  web App was created to enhance the values of cooperation and volunteering
+                  in the community by making it easier for users to donate tools, clothes, food,
+                  and electronic devices in addition to providing some services through a team
+                  of specialized volunteers, who provide services such as construction,
+                  carpentry and paint to the needy people for free
                   </p>
                 </Col>
                 <Col lg="4">
                   <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
                     <i className="ni ni-ruler-pencil text-primary" />
                   </div>
-                  <h5 className="text-white mt-3">Grow your market</h5>
+                  <h5 className="text-white mt-3">Donors Information</h5>
                   <p className="text-white mt-3">
-                    Some quick example text to build on the card title and make
-                    up the bulk of the card's content.
+                  App contains a form to let users enter data to donate and a table be shown
+                  after donation consists of the name of the donator, the number of his donation
+                  and total value of all the donations
                   </p>
                 </Col>
                 <Col lg="4">
                   <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
                     <i className="ni ni-atom text-primary" />
                   </div>
-                  <h5 className="text-white mt-3">Launch time</h5>
+                  <h5 className="text-white mt-3">301and401 project</h5>
                   <p className="text-white mt-3">
                     Some quick example text to build on the card title and make
                     up the bulk of the card's content.

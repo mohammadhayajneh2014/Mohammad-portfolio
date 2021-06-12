@@ -219,9 +219,11 @@ We use GitHub Issues as the official bug tracker for the Argon Design System Rea
 
 ### Social Media
 
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
+Twitter: <https://twitter.com/MohammadHayaj14>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
+Facebook: <https://www.facebook.com/people/Mohammad-Hayajneh/100005935426950/>
+
+Github: <https://github.com/mohammadhayajneh2014>
 
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 

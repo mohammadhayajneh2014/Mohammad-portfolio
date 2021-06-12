@@ -53,11 +53,10 @@ class Hero extends React.Component {
                       style={{ width: "200px" }}
                     />
                     <p className="lead text-white">
-                      A beautiful Design System for Bootstrap 4. It's Free and
-                      Open Source.
+                    what you are excited about in tech?
                     </p>
                     <div className="btn-wrapper mt-5">
-                      <Button
+                      {/* <Button
                         className="btn-white btn-icon mb-3 mb-sm-0"
                         color="default"
                         href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
@@ -67,7 +66,7 @@ class Hero extends React.Component {
                           <i className="ni ni-cloud-download-95" />
                         </span>
                         <span className="btn-inner--text">Download React</span>
-                      </Button>{" "}
+                      </Button>{" "} */}
                       <Button
                         className="btn-icon mb-3 mb-sm-0"
                         color="github"

@@ -42,13 +42,13 @@ class Download extends React.Component {
                   Bootstrap project a new look!
                 </p>
                 <div className="btn-wrapper">
-                  <Button
+                  {/* <Button
                     className="mb-3 mb-sm-0"
                     color="primary"
                     href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
                   >
                     Download React
-                  </Button>
+                  </Button> */}
                 </div>
                 <div className="text-center">
                   <h4 className="display-4 mb-5 mt-5">
